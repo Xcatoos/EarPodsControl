@@ -132,6 +132,10 @@ defaults delete app.earpodscontrol.EarPodsControl
 
 Issues and pull requests are welcome!
 
+## 🙌 Credits
+
+Designed and built together with [Claude](https://claude.ai), Anthropic's AI, as a co-author.
+
 ## ⚖️ Legal
 
 EarPods Control is an independent project. It is **not affiliated with, endorsed by, or sponsored by Apple Inc.**
