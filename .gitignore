@@ -1,0 +1,7 @@
+# Build output
+build/
+# Apple's product photos are downloaded by the app at runtime; never commit them
+Resources/EarPods.png
+Resources/Remote.png
+# macOS
+.DS_Store
